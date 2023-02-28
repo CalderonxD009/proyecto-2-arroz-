@@ -1,8 +1,25 @@
 header img{
-  width: 80px;
+  width: 120px;
   margin-left: 10px;
 }
 
 header{
   background-color: red;
 }
+
+.fondo-imagen{
+  max-height: 80vh;
+  width: 50%;
+  margin-left: 50%;
+  margin-top: -18%;
+}
+
+.primero{
+  width: 580px;
+  font-size: 20px;
+  margin-left: 20px;
+  text-align: center;
+  margin-top: 10%;
+}
+
+
